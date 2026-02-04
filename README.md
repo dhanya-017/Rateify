@@ -13,6 +13,9 @@ A full-stack web application called **Rateify** that allows users to submit rati
 - **Search & Filter** functionality
 - **Responsive Design** for all devices
 
+## 🎥 Demo Video
+🔗 [Watch Project Demo](https://drive.google.com/file/d/1OUtvF20TCeBoDwffIVsWLVD5Fhrwki0m/view?usp=drive_link)
+
 ## Tech Stack
 
 ### Backend
